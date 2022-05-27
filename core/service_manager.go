@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"git.tanzk.cn/om/tools/go-donkey/core/log"
+	"github.com/jxcia/go-donkey/core/log"
 	clientV3 "go.etcd.io/etcd/client/v3"
 )
 

@@ -5,7 +5,7 @@ import (
 
 	pb "google.golang.org/grpc/examples/helloworld/helloworld"
 
-	"git.tanzk.cn/om/tools/go-donkey/core/log"
+	"github.com/jxcia/go-donkey/core/log"
 	"google.golang.org/grpc"
 )
 

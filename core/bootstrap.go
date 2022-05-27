@@ -3,8 +3,8 @@ package core
 import (
 	"os"
 
-	"git.tanzk.cn/om/tools/go-donkey/core/drives/etcd"
-	"git.tanzk.cn/om/tools/go-donkey/core/log"
+	"github.com/jxcia/go-donkey/core/drives/etcd"
+	"github.com/jxcia/go-donkey/core/log"
 )
 
 func (g *Garden) bootstrap(bootstrap, env string) {

@@ -1,4 +1,4 @@
-module git.tanzk.cn/om/tools/go-donkey
+module github.com/jxcia/go-donkey
 
 go 1.18
 

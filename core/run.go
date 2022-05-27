@@ -1,8 +1,8 @@
 package core
 
 import (
-	"git.tanzk.cn/om/tools/go-donkey/core/log"
 	"github.com/gin-gonic/gin"
+	"github.com/jxcia/go-donkey/core/log"
 )
 
 // Run service start
