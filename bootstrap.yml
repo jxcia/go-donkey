@@ -1,0 +1,7 @@
+app:
+  id: ark-jumpserver
+apollo:
+  namespaces: application
+  meta:
+    dev: http://10.0.217.70:8080/
+    prod: http://10.19.217.236:8080/,http://10.19.217.237:8080/,http://10.19.216.152:8080/,http://10.19.216.151:8080/
